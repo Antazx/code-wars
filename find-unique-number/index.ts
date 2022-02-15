@@ -1,4 +1,3 @@
-console.log(findUniq([1, 1, 1, 2, 1, 1]));
 function findUniq(arr: number[]): number {
     const map: { [key: number]: number } = {};
     for (let index = 0; index < arr.length; index++) {
