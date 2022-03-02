@@ -1,4 +1,5 @@
 # Code-Wars solutions
+- [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6): [solution](./grow-population/index.ts)
 - [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038): [solution](./complementary-dna//index.ts)
 - [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6): [solution](./jaden-casing/index.ts)
 - [Find Unique Number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235): [solution](./find-unique-number/index.ts)
