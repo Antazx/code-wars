@@ -1,5 +1,3 @@
-import { cp } from "fs";
-
 export function parse(data: string): number[] {
     const sum = (num: number): Function => (value: number): number => value + num;
     const square = (num: number): Function => (value: number) => value ** num;
